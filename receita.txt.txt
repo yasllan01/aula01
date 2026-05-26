@@ -7,3 +7,16 @@ git init
 
 3. criar o repo no GitHub
 Nome do repo: Aula01
+
+4. nesta etapa, é a etapa de desenvolvimento ou seja, alterações nos nossos arquivos. Site, projetos, arquivos texto, entre outros. 
+
+5. Após a conclusão do desenvolvimento, adicionar os arquivos ao repo: 
+git add . 
+
+6. comitar ao repositotio com uma mensagem explicativa: git commit -m " Mensagem entre parênteses"
+
+7. Associar o nosso repo local com o remoto 
+git remote add origin LINK_DO_REPO
+git branch -M main 
+git push -u origin main 
+FAZER LOGIN E AUTORIZAR, SE NECESSÁRIO
