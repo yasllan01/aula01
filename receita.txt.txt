@@ -10,6 +10,8 @@ Nome do repo: Aula01
 
 4. nesta etapa, é a etapa de desenvolvimento ou seja, alterações nos nossos arquivos. Site, projetos, arquivos texto, entre outros. 
 
+REPETIR OS PASSOS 5, 6 E 7 SEMPRE QUE HOUVER ALTERAÇÕES NOS ARQUIVOS DO PROJETO
+
 5. Após a conclusão do desenvolvimento, adicionar os arquivos ao repo: 
 git add . 
 
